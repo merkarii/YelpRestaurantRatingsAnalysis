@@ -1,2 +1,3 @@
 # YelpRestaurantRatingsAnalysis
 Analyze Yelp business and review data to calculate the average rating and review count for restaurants in different locations.
+In this project, we will analyze Yelp restaurant reviews using PySpark with Databricks. We will load business and review data from JSON files, filter businesses based on the "Restaurants" category, join the business and review data, group the records by restaurant, and compute the average rating and review count for each restaurant. Finally, we will order the results by average rating and review count to obtain the top-rated restaurants.
